@@ -1,2 +1,5 @@
-# Examples_of_SQL_queries-
-A collection of SQL queries 
+====================
+
+In this repository, different SQL queries made in previous work activities or courses are displayed.
+
+====================

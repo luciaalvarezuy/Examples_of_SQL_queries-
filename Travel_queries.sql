@@ -1,3 +1,5 @@
+# The following are SQL queries performed on a data frame with information about trips made on an international company.
+
 USE dataframe;
 
 ############### Exercise 1 ###############
